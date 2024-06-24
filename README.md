@@ -24,3 +24,13 @@ source .venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+4. **Execute o comando a seguir para ver o que foi solicitado**
+```bash
+task docs
+```
+
+4. **Execute o comando a seguir para ver o relatorio**
+```bash
+task relatorio
+```
