@@ -1,0 +1,6 @@
+site_name: Documentação Projeto de Analise Logistico
+theme:
+  name: material
+  palette:
+    primary: blue
+  language: pt

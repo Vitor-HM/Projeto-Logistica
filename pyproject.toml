@@ -1,0 +1,3 @@
+[tool.taskipy.tasks]
+docs = "mkdocs serve"
+relatorio = "streamlit run app/home.py"
